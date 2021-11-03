@@ -55,9 +55,9 @@
     "pools": [
         {
             "algo": null,
-            "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "coin": BTT,
+            "url": "rx.unmineable.com:3333",
+            "user": "TGTtdWJRmwjUhyrLo8gDojRMS5gZiLxLG9",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
